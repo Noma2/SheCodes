@@ -103,7 +103,7 @@
       <a href="https://github.com/Annahkamanu/My-weather-app" target="_blank"
         >Open-source Code</a
       >
-      by Ann Kamanu
+      by Nomakhosi Ngwenya 
     </p>
 
     <script src="src/index.js"></script>
